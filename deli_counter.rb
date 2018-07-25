@@ -1,7 +1,7 @@
 # Write your code here.
 
 def line(katz_deli)
-  if deli == 0 
+  if deli.empty
  puts "The line is currently empty."
 else 
   other_line = " The line is currently:"
